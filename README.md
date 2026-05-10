@@ -16,5 +16,6 @@ Provide a rich Web3 app ecosystem
     <a href="https://x.com/0xPolygon"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/0xPolygon"></a>
     <a href="https://x.com/Agglayer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Agglayer"></a>
   </p>
+  <img src="/ltc.jpg" style="margin: 0 auto 40px;" />
   <img src="/litvm.png" style="margin: 0 auto 40px;" />
 </div>
