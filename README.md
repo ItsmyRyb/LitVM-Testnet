@@ -27,7 +27,7 @@ Complete the tasks to qualify for potential LitVM airdrops and rewards. Follow s
 LitVM has announced the launch of the LiteForge testnet. You can participate by testing the ecosystem to be eligible for rewards in the future
 ## [Lite Forge](https://liteforge.hub.caldera.xyz/)
 1. Go to the [website](https://liteforge.hub.caldera.xyz/) and connect your wallet. Add the network zkLTC to your wallet and request test tokens
-2. Transfer zkLTC on website from Liteforge to the Sepolia network and bridge back from Sepolia to Liteforge network
+2. Transfer from zkLTC to the Sepolia network and bridge back from Sepolia to zkLTC network
 ## [OnChainGM](https://onchaingm.com/)
 1. Go to the [OnChainGM](https://onchaingm.com/) and connect your wallet. Choose testnet network zkLTC
 2. Click GM on LitVM & click deploy on LitVM (Do it everydays)
@@ -51,6 +51,10 @@ LitVM has announced the launch of the LiteForge testnet. You can participate by 
 ## [Arkada Platform](https://app.arkada.gg/en/wallet)
 1. Go to the [Arkada Platform](https://app.arkada.gg/en/wallet),connect your wallet,scroll down and search zkLTC chain
 2. Click verify & update on zkLTC chain,complete the daily wallet verification on the network to increase your active days and transactions
+## [Multyra](https://app.multyra.xyz/)
+1. Open the [Multyra](https://app.multyra.xyz/) and connect your wallet
+2. Transfer from zkLTC to the Sepolia network and bridge back from Sepolia to zkLTC network
+
 
 ## [Galxe LitVM OmniQuest](https://app.galxe.com/quest/M2eQDNgu8C3UuezJHXS55Y/GCcGNt67hg)
 ### Quest Details
