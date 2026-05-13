@@ -28,6 +28,10 @@ LitVM has announced the launch of the LiteForge testnet. You can participate by 
 ## [Lite Forge](https://liteforge.hub.caldera.xyz/)
 1. Go to the [website](https://liteforge.hub.caldera.xyz/) and connect your wallet. Add the network zkLTC to your wallet and request test tokens
 2. Transfer zkLTC on website from Liteforge to the Sepolia network and bridge back from Sepolia to Liteforge network
+## [OnChainGM](https://onchaingm.com/)
+1. Go to the [OnChainGM](https://onchaingm.com/) and connect your wallet. Choose testnet network zkLTC
+2. Click GM on LitVM & click deploy on LitVM (Do it everydays)
+3. Go to badges menu,complete all task and [mint badge now](https://onchaingm.com/badge-litvm)
 ## [Lester Labs](https://www.lester-labs.com/launch)
 1. Open the [Lester Labs](https://www.lester-labs.com/launch) platform and connect your wallet
 2. Fill in the details and deploy the token
