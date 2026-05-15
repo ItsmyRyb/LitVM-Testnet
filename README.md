@@ -51,9 +51,14 @@ LitVM has announced the launch of the LiteForge testnet. You can participate by 
 ## [Arkada Platform](https://app.arkada.gg/en/wallet)
 1. Go to the [Arkada Platform](https://app.arkada.gg/en/wallet),connect your wallet,scroll down and search zkLTC chain
 2. Click verify & update on zkLTC chain,complete the daily wallet verification on the network to increase your active days and transactions
+## [LiteSwap](https://liteswap.app/)
+1. Connect wallet add the network zkLTC to your wallet
+2. Pair assets are ready for a first quote
+3. Open Trade and make one small test swap
 ## [Multyra](https://app.multyra.xyz/)
 1. Open the [Multyra](https://app.multyra.xyz/) and connect your wallet
 2. Transfer from zkLTC to the Sepolia network and bridge back from Sepolia to zkLTC network
+## [More Interact](https://testnet.litvm.com/)
 
 
 ## [Galxe LitVM OmniQuest](https://app.galxe.com/quest/M2eQDNgu8C3UuezJHXS55Y/GCcGNt67hg)
