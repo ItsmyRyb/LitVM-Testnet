@@ -58,7 +58,7 @@ LitVM has announced the launch of the LiteForge testnet. You can participate by 
 ## [Multyra](https://app.multyra.xyz/)
 1. Open the [Multyra](https://app.multyra.xyz/) and connect your wallet
 2. Transfer from zkLTC to the Sepolia network and bridge back from Sepolia to zkLTC network
-## [More Interact](https://testnet.litvm.com/)
+## [Click here for more interact](https://testnet.litvm.com/)
 
 
 ## [Galxe LitVM OmniQuest](https://app.galxe.com/quest/M2eQDNgu8C3UuezJHXS55Y/GCcGNt67hg)
